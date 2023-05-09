@@ -9,13 +9,13 @@
   max-width: 200px;
 }
 
-#btnInterview {
+/* #btnInterview {
   display: none;
 }
 
 .table {
   display: none;
-}
+} */
 
 @media screen and (min-width: 576px) {
   .single-info {
